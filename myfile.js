@@ -1,0 +1,1 @@
+const ax = "sample text";
